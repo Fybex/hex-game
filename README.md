@@ -2,10 +2,10 @@
 
 A Hex board game with AI opponent, built with SWI-Prolog (backend) and SvelteKit (frontend).
 
-<div align="center">
-  <img src="docs/hex_home.png" alt="Start screen" width="420">
-  <img src="docs/hex_game_with_ai_reply_fixed.png" alt="Game screen" width="420">
-</div>
+<p align="center">
+  <img src="docs/hex_home.png" alt="Start screen" width="49%">
+  <img src="docs/hex_game_with_ai_reply_fixed.png" alt="Game screen" width="49%">
+</p>
 
 ## Project Structure
 
