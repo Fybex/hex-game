@@ -1,0 +1,30 @@
+@import 'tailwindcss';
+
+:root {
+	--blue: #4d9fff;
+	--blue-deep: #1a56db;
+	--blue-glow: rgba(77, 159, 255, 0.4);
+	--red: #ff5a5a;
+	--red-deep: #c62828;
+	--red-glow: rgba(255, 90, 90, 0.4);
+	--surface-0: #0a0e17;
+	--surface-1: #111827;
+	--surface-2: #1a2236;
+	--surface-3: #243049;
+	--border: #2a3650;
+	--text-primary: #e8edf5;
+	--text-secondary: #8899b4;
+	--text-muted: #4a5c78;
+	--accent: #fbbf24;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Outfit', system-ui, sans-serif;
+	background: var(--surface-0);
+	color: var(--text-primary);
+	margin: 0;
+}

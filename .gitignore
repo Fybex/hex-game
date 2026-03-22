@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Build output
+frontend/build/
+frontend/.svelte-kit/
+
+# Test artifacts
+frontend/test-results/
+backend/test-results/
+
+# OS
+.DS_Store
+
+# Editor
+.idea/
+.vscode/
