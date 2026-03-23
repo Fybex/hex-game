@@ -70,7 +70,7 @@ export const en = {
 		redHint: '2nd move',
 		humanSides: 'Sides in two-player mode',
 		aiSides: 'Sides in AI vs AI',
-		aiDepth: 'AI depth',
+		aiDepth: 'AI depth (half-moves)',
 		recommendedDepth: 'Recommended for {size}x{size}: {depth}',
 		start: 'Start'
 	},
@@ -161,7 +161,7 @@ export const uk = {
 		redHint: 'Ходить другим',
 		humanSides: 'Сторони у режимі для двох гравців',
 		aiSides: 'Сторони у режимі ШІ проти ШІ',
-		aiDepth: 'Глибина ШІ',
+		aiDepth: 'Глибина ШІ (півходів)',
 		recommendedDepth: 'Рекомендовано для {size}x{size}: {depth}',
 		start: 'Почати'
 	},
